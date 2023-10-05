@@ -1,1 +1,3 @@
-touch
+git add README.md
+git commit -m
+git pull origin main
